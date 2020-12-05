@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SRModuleOne",
+        "repositoryURL": "https://github.com/onewh/SRModuleOne.git",
+        "state": {
+          "branch": null,
+          "revision": "b8bab398247f02c3dbe9e339c80e12d93ccd97f8",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "SwiftRouter",
+        "repositoryURL": "https://github.com/onewh/SwiftRouter.git",
+        "state": {
+          "branch": "master",
+          "revision": "20daa9f6f1992c525e65e0c35555906d6e8b7c9d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
